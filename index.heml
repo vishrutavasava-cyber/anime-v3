@@ -118,3 +118,4 @@ function fav(i){animes[i].fav=!animes[i].fav;save()}
 </script>
 </body>
 </html>
+
